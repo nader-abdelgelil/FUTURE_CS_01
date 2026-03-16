@@ -14,7 +14,7 @@ Cyber Security Internship Program tasks and projects at Future Interns (March - 
 **Status:** In Progress ⏳
 
 ### Objective
-Perform a professional vulnerability assessment on a live web application (`testphp.vulnweb.com`) to identify security risks, classify them by severity, and provide remediation steps.
+Perform a professional vulnerability assessment on a live web application ('zero.webappsecurity.com') to identify security risks, classify them by severity, and provide remediation steps.
 
 ### Methodology & Tools
 1. **Reconnaissance:** Network scanning and service discovery using **Nmap**.
@@ -23,8 +23,9 @@ Perform a professional vulnerability assessment on a live web application (`test
 4. **Reporting:** Professional documentation designed in **Canva**.
 
 ### Progress Checklist
+### Progress Checklist
 - [x] Create GitHub Repository
-- [ ] Network Scanning (Nmap) - *In Progress*
-- [ ] Vulnerability Identification
-- [ ] Risk Classification
+- [x] Network Scanning (Nmap) - Completed ✅
+- [x] Vulnerability Identification - Completed ✅
+- [ ] Risk Classification - *Next Step*
 - [ ] Final PDF Report Upload
